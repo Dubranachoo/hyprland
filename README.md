@@ -1,4 +1,4 @@
-# hyprland
+ # hyprland
 Guía de hyprland base (Arch Linux)
 
 ### @nachoodubra ArchLinux 2023
