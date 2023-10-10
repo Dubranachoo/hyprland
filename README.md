@@ -1,4 +1,4 @@
- # hyprland
+ hyprland
 # Guía de hyprland base (Arch Linux)
 
 ### *@nachoodubra ArchLinux 2023*
@@ -18,7 +18,7 @@ con esto abriremos un terminal, (medio feo por cierto), que con este vamos a ins
 
 lo primero que instalaremos el el paquete de git. para ello en la terminal tipeamos esto:
 <pre>    
-###    sudo pacman -S git
+    sudo pacman -S git
 </pre>
 
 luego, pedira la contraseña del sudo (superusuario). para poder instalar correctamente el paquete (te pedira si lo queres instalar, dale "s" y enter).
