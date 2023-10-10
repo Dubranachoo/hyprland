@@ -1,8 +1,8 @@
 # hyprland
 Guía de hyprland base (Arch Linux)
 
-@nachoodubra ArchLinux 2023
-*hola perras malvadas, bueno aca voy a ir poniendo todo para el hyprland...*
+### @nachoodubra ArchLinux 2023
+### *hola perras malvadas, bueno aca voy a ir poniendo todo para el hyprland...*
 
 -------------------------------------------------------------------------------------------------------------
 / aviso importante (dea), si tenes ya arch linux con hyprland, anda a configuracion con el entorno ya creado/
