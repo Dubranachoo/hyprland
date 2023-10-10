@@ -4,13 +4,13 @@ Guía de hyprland base (Arch Linux)
 ### @nachoodubra ArchLinux 2023
 ### *hola perras malvadas, bueno aca voy a ir poniendo todo para el hyprland...*
 
--------------------------------------------------------------------------------------------------------------
-/ aviso importante (dea), si tenes ya arch linux con hyprland, anda a configuracion con el entorno ya creado/
--------------------------------------------------------------------------------------------------------------
+-
+¡¡¡aviso importante!!!, si tenes ya arch linux con hyprland, anda a configuracion con el entorno ya creado 
+-
 
--------------------------------------------------------------------------------------------------------------
+-
 primer arranque de hyprland
--------------------------------------------------------------------------------------------------------------
+-
 lo primero que hay que hacer, es activar el terminal kitty, (por lo general viene ya con la instalacion del entorno grafico.).
 para activarlo, se usa la tecla win + q. 
 
