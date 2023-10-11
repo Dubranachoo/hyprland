@@ -5,7 +5,7 @@
 #### *bienvenidos, bueno aca voy a ir poniendo todo para el hyprland...*
 
 
-### ¡¡¡aviso importante!!!, si tenes ya arch linux con hyprland, anda a configuracion con el entorno ya creado 
+### ¡¡¡aviso importante!!!, si tenes ya arch linux con hyprland, anda a configuracion con el entorno ya creado, sino... entra a este [enlace](https://github.com/Dubranachoo/ArchLinux)
 
 
 
